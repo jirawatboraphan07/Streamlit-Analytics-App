@@ -1,0 +1,11 @@
+# Streamlit UI defaults (edit as needed)
+[theme]
+base = "light"         # "light" or "dark"
+primaryColor = "#0F766E"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F6F9FC"
+textColor = "#111827"
+
+[client]
+# If you implement your own navigation UI later, you can hide default sidebar nav:
+# showSidebarNavigation = false
