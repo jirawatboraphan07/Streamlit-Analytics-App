@@ -3,7 +3,8 @@ import streamlit as st
 
 st.set_page_config(page_title="Streamlit Analytics App", page_icon="📊", layout="wide")
 
-st.title("📊 Streamlit Analytics App__เว็บไซต์นี่เป็นแค่การจำลอง__")
+st.title("📊 Streamlit Analytics App")
+st.title("__เว็บไซต์นี่เป็นแค่การจำลอง__")
 st.write("This is the entry point. Use the sidebar to navigate pages.")
 
 st.page_link("pages/1_Dashboard.py", label="Open Dashboard", icon="🏠")
